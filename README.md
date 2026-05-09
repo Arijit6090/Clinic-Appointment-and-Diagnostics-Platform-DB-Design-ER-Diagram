@@ -3,6 +3,9 @@
 ## eraser.io link:
 https://app.eraser.io/workspace/x3EjziJuDqXJ5izjCAjR
 
+## For all ERD:
+https://app.eraser.io/workspace/QfGhXOt9AtGZ60nVLp9Z
+
 ## Instructions
 A modern clinic wants to organize its operations digitally. They want to manage doctors, patients, appointments, consultations, diagnostic tests, reports, and payments. Patients should be able to visit doctors, book appointments, undergo tests if prescribed, and receive reports later.
 
